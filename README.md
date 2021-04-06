@@ -2,7 +2,7 @@
 
 While each team is ultimately responsible for their own project's style, this is being provided to promote consistency across P&G iOS projects.
 
-This was adapted from the excellent [Ray Wenderlich Style Guide](https://github.com/raywenderlich/swift-style-guide)
+This was adapted from the excellent [Ray Wenderlich Style Guide](https://github.com/raywenderlich/swift-style-guide).
 
 ## Table of Contents
 
@@ -61,7 +61,7 @@ Limit dependencies to popular, well-tested packages. Use Swift Package Manager i
 
 ## Using SwiftLint
 
-Every iOS project should start with our [Swiftlint configuration](https://github.com/pgalchemy/ios-style-guide/swiftlint.yml). However, each team may decide to modify their project's configuration to best fit their needs.
+Every iOS project should start with our [Swiftlint configuration](https://github.com/pgalchemy/ios-style-guide/blob/main/swiftlint.yml). However, each team may decide to modify their project's configuration to best fit their needs.
 
 ## Naming
 
